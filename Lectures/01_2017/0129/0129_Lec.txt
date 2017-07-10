@@ -1,0 +1,21 @@
+*1/29*
+      
+- Inheritance review
+  * diagram ( arrow to SUPERCLASS )
+  * is-a relationship ( dog [is-a(n)] animal)
+  * extends
+  * initializing -> Super = new Sub
+  * super() -> constructor
+  * method overloading
+    # super.methodName() -> call super class's method
+
+
+[ Reading HW ]
+pg.138 ~ p149( Finish chapter 3 )
+
+[ Coding HW ]
+pg.408 ( Q1-a,b,c )
+
+
+
+ 

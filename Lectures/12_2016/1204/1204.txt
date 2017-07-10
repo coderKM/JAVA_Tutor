@@ -1,0 +1,7 @@
+[ Reading HW ]
+- AP book : Program Design and analysis pg.215(from IDENTIFYING CLASSES) ~ 220 <= will be on quiz!!
+
+Beautiful tree (and stack)
+https://www.youtube.com/watch?v=ghZKKaZkzrE
+
+HW : 3 * 3 swap GUI

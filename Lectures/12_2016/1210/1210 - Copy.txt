@@ -1,0 +1,11 @@
+
+1. 35 => binary
+
+2. 100110 => Decimal
+
+3. Make a 3 x 3 buttons on JPanel and each button has a color. ( BLUE || RED || GREEN )
+   Write a handler that returns the color of button when you CLICK.
+
+4. Make a button has a specific letter as its name(random letter).
+   Write a handler that returns true when you press the key with same letter, 
+   otherwise reset the letter.

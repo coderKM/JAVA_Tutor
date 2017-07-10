@@ -1,0 +1,49 @@
+﻿*02/12*
+
+[ Quiz ]
+pg154 - 11   
+pg158 - 16, 18
+	pg162 - 22, 23
+
+
+[ Lecture ]   
+Object class
+ - The King
+ - superclass of the universe!
+ - EVERY class automatically extends  
+ - methods
+   ㄴ toString()
+   ㄴ equals()
+ - obj instanceof Class statement
+
+String class
+ - sequence of characters
+ - possible to assign as other class
+   ㄴ ex. String str = new String("yay");
+ - concatenation operator => +
+ - how do we compare strings?
+   ㄴ why?
+
+[ Coding! ]
+ 1)
+ - You want to make a class(Calc) with two instance variables :
+   - int _i; int _j;
+   - these variable will be taken throgh parameters
+ - And you want to make an interface(Operator) with 4 methods :
+   - int sum(), int sub(), int div(), int mul()
+ - Implement Operator to Calc class & complete the function
+
+ 2) Same as above BUT!
+ - You are not sure how to define sum() method..
+ - So, you have to make an abstract class
+
+ 3) complete method int playWithString(String s, int i)
+ - when i = 0, it refers to an alphabet a (when i = 1, alphabet b...)
+ - you should return how many alphabet(that i refer to) does s contain.
+ - ex) s = banana, i = 0(a) => return : 3
+
+[ Reading HW ]
+Ch4)pg.174 ~ pg.180( before Wrapper class) 
+
+[ Coding HW ]
+pg.414 ( Q3-a,b,c )

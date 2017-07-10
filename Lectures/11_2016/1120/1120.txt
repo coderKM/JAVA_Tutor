@@ -1,0 +1,7 @@
+AP book : recursion pg 290 ~ 300 ( before sample free response question)
+
+[coding]
+fibonacci : non-recur
+fibonacci : recur
+
+https://en.wikipedia.org/wiki/Fibonacci_number

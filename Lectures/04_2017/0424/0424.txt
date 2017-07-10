@@ -1,0 +1,22 @@
+﻿04 / 15
+
+[ HW checking ]
+- Questions?
+
+[ Lecture ]
+- Tips
+  ㄴ try to write down each steps
+  ㄴ make a simple case
+  ㄴ watch out for out of bound
+  ㄴ be familiar with state diagrams
+  ㄴ be familiar with state UML
+  ㄴ something unclear ? ask instructor!
+
+[ HW ]
+pg 435 ~ pg 445 (20)
+pg460 ~ 471 (even num/coding)
+
+
+[ Practice Exam ]
+pg381 ~ 407 (even num)
+pg460 ~ 471 (odd num/coding)

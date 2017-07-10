@@ -1,0 +1,40 @@
+﻿*02/19*
+[ Quiz ]
+191 - 10,11,12
+195 - 17,18
+
+[ Lecture ]   
+
+1.Wrapper Class
+ - takes either an existing object or a value of primitive types
+ - They have boxing, unboxing methods
+ - Integer, Double
+   ㄴ Integer
+      - Integer(int val) : "int" type to "Integer"
+      - int compareTo(Integer other) : 0 = equal. -a = less than [other]. +a = greater than [other]
+      - int intValue() : return int from Integer
+      - boolean equals(Object obj)
+ - Double
+      - Double (double value) : boxing "double" type to "Double"
+      - int compareTo(Integer other) : 0 = equal. -a = less than [other]. +a = greater than [other]
+      - double doubleValue() : return double from Double
+      - boolean equals(Object obj)
+
+2.Math Class
+ - implements mathematical functions(static methods)
+   ㄴ static int abs(int x) :  returns absolute value of x
+   ㄴ static double abs(double x) : returns absolute value of real number x 
+   ㄴ static double pow(double base, double exp) : returns base ^ exp
+   ㄴ static double sqrt(double x) : return suareroot of x
+   ㄴ static double random() : return random number r, where 0.0 <= r < 1.0
+
+[ Coding! ]
+ Complete methods 
+ - double calculateArea(double r) that returns area of circle 
+ - double calculateQF(int a, int b, int c) that calculate quadratic formula 
+ 
+[ Reading HW ]
+Ch4)pg.180 ~ pg.186(finish ch.4) 
+
+[ Coding HW ]
+pg 412 a) ~ c)

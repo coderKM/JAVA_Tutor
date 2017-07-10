@@ -1,0 +1,32 @@
+﻿04 / 15
+
+[ Quiz ]
+pg360 - 1 
+pg363 - 5 
+pg367 - 9, 10
+pg369 - 12
+pg372 - 15
+
+[ Lecture ]
+- String selections, split, pick a character
+- Random Element Selection
+- (if & if) || (if & else if) || (if(if))
+- Subclass
+- Decimal converting => base 2,8,16
+
+[ Read ] 
+- pg350 ~ 359 (Finish Ch9)
+
+[ HW ]
+- solve ch9 questions pg360~372
+(except for 1,5,9,10,12,15)
+   ㄴ NO COPYING !
+   ㄴ Write your answers on blank paper, and bring it to the class
+- pg381 ~ 407 (odd num)
+- pg408 ~ 419 (coding on notepad)
+
+
+[ Practice Exam ]
+pg381 ~ 407 (odd num)
+pg408 ~ 419 (hand coding)
+1,7,21,23,

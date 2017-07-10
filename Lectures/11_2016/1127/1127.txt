@@ -1,0 +1,6 @@
+AP book : Program Design and analysis pg208 ~ 215 ( before IDENTIFYING CLASSES)
+
+More about Recursion (and stack)
+https://www.youtube.com/watch?v=s8JpA5MjYac
+
+HW : 3 * 3 swap GUI

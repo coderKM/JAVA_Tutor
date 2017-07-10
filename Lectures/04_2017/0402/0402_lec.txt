@@ -1,0 +1,38 @@
+﻿04 / 02
+
+[ Quiz ]
+pg331 - 1, 3
+pg336 - 18,19 A,D
+pg339 - 25 E
+
+[ Lecture ]
+- Sort
+  * Merge Sort
+    ㄴ Sort with recursion, called *Divide-and-conquer*
+    ㄴ How it works?
+       1. Break the array into two halves
+       2. Mergesort the lefthalf
+       3. Mergesort the righthalf
+       4. Merge the two subarrays into a sorted array
+
+- Search
+  * Sequential Search
+    ㄴ Starts at the first element and comapres keys to each element
+    ㄴ return the index of k(target element), if does not exist, return -1
+
+  * Binary Search
+    ㄴ Recursively search the element
+    ㄴ An assumption that the array is sorted
+    ㄴ return the index of k(target element), if does not exist, return -1    
+
+
+[ Read ] 
+- pg350 ~ 359 (Finish Ch9)
+
+[ HW ]
+- solve ch8 questions pg308~318(except for 1,3,18,19 & 25)
+   ㄴ NO COPYING !
+   ㄴ Write your answers on blank paper, and bring it to the class
+
+[ Practice Exam ]
+pg5 q1 ~ q20 (odd nums) + 20 ~ 40

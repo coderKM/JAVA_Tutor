@@ -1,0 +1,27 @@
+*1/22*
+      
+[ Reading HW ]
+pg101 ~ p110( Before REFERENCE )
+
+- Life of Variables(instance vs local)
+- primitive data type vs referenceq
+- null
+- Using Parameters
+
+
+* Slack (https://swaggers-hq.slack.com/shared_invite/MTMwNjY4NjYxNTg3LTE0ODUwMzI2MDUtOTA0ZGExZjk2Mw) *
+swaggers-hq.slack.com
+
+1. Make Time class takes a String form as TT:MM:SS through constructor.
+   Make Time class with three methods
+   - String returnHr();
+   - String returnMin(); 
+   - String returnSec();
+
+2. Make ErrorHandler class has two instance variables(int _status, int _id)
+   - constructor takes both status and id information through parameter
+   - void detectError() method detects and print error message if status codes are odd number and less than 900
+     (if no error, then print no error)
+
+3. Make a class that count & print the number of object of it you initialized.
+   - ex) if you just made 3th object (you have 3 objects)

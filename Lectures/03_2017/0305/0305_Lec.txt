@@ -1,0 +1,48 @@
+﻿*03/05*
+[ Quiz ]
+221 - 1, 2
+223 - 7, 8
+229 - 20, 21
+
+
+[ Lecture ] 
+
+- Array
+  * How to assign?
+  * Size of array
+  * Traversing
+    ㄴ For each & for
+  * with class Object
+
+- ArrayList
+  * is in the Collection API(App programming Interface)
+  * extends List interface
+  * (and all other collection classes) are generic with type parameter
+    ㄴ ex. ArrayList<E> contains elements of type E
+  * Only contains Object (not primitives)
+    ㄴ auto-boxing & unboxing
+  * List<E> interface
+    ㄴ boolean add(E obj) 
+    ㄴ int size()
+    ㄴ E get(int index)
+    ㄴ E set(int index, E element)
+    ㄴ void add(int index, E element)
+    ㄴ E remove(int index)
+    (Optional : Iterator<E> iterator())
+
+[ Coding! ]
+- Complete methods on notepad 
+  * int[] printEven(int[] input)
+    ㄴ this method returns an array has value 0 for any even number indexes
+  * int[] arrCounter(int[] input)
+    ㄴ This method returns an array with size 2. Index 0 should contain the number of even number in array input, 
+      and index 1 should contain the number of odd number
+  * int sumOfNums(int[] input)
+    ㄴ This method should return the sum of elements in input with using FOR EACH only
+- Re-implements above 3 methods with using ArrayList<Integer>(any int[] container should be replaced to ArrayList<Integer>)
+
+[ Reading HW ]
+Ch6) pg.233 - 244 before The ArrayList<E> Class
+
+[ Coding HW ]
+pg.414 Q3 : a) ~ c)

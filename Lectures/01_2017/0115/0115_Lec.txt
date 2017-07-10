@@ -1,0 +1,9 @@
+*1/15*
+      
+[ Reading HW ]
+pg92 ~ p101( Before REFERENCE )
+
+- Practice exam(writing)
+- Overloading
+- State Diagram
+- Constructor overloading CODING

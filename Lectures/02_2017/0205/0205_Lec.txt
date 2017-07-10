@@ -1,0 +1,47 @@
+*02/05*
+
+[ Quiz ]
+pg150 - 1, 2, 3
+pg152 - 7, 8
+
+[ Lecture ]      
+
+- abstract class
+  * superclass that reprents an abstract concept
+  * can contain abstract method(header)
+    - there is no good default code for the method
+  * subclass of abstract class must complete abstract methods(only abstract methods)
+
+- interface
+  * collection of related methods
+
+- interface vs abstract
+  - abstract class -> 
+    * an object that is application-specific BUT incomplete without its subclasses
+    * can contain instance variables
+
+  - interface -> 
+    * its methods are suitable for your problem BUT could be equally applicable in variety of programs
+    * typically does not provide implementation for any of its methods ( abstract class does )
+
+  - both ->
+    * can not create an instance
+
+[ Code HW ]
+
+
+- complete public int[] twoSum(int[] in, int target)
+  * Given an array of integers return an indices of the two numbers such that their sum is equal to target 
+  * ex) in = { 1, 2, 3, 4 } & target = 7   => return : {2, 3}
+
+
+- complete class MySub and MySuper & using just one line on the main method, print "0110"
+  * MySub's public void print() method print "0" on console
+  * MySuper's public void print() method print "1" on console
+
+
+[ Reading HW ]
+pg.138 ~ p149( finhsh ch.3 )
+
+[ Coding HW ]
+pg.408 ( Q1-a,b,c )

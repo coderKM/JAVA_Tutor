@@ -1,0 +1,34 @@
+﻿[ Quiz ]
+pg263 - 13,14
+pg264 - 16
+pg265 - 17
+pg268 - 22
+pg269 - 25
+
+[ Lecture ]
+- What is recursion? Do you guys still remember?
+(http://www.russia-ex.com/images/blog/Matryoshka-Dolls-1.jpg)
+- NO CODE, only multiple choices! YAY!!
+- Base case or termination condition => method to end
+- nonbase case => move the algorithm toward the basecase
+- Think about base case FIRST! then, nonbase
+- Let's look at factorial example
+  ㄴ how would you make ur factorial method?
+  ㄴ let's see the table on pg 293
+  ㄴ what is difference?
+- General Rules
+  * Avoid recursion for algorithm that involve large local array => cause memory over-flow
+  * Use it when it significantly simplifies code
+  * Avoid recursion for simple iterative methods
+  * especially useful for tree functions & divide-and-conquer algorithm
+
+[ Code(Eclipse) ]
+- int add(int input) => recursively calculate the sum of 0,1,2,...,input
+- void recPrint(int[] input) => recursively print elements of  arr in reverse
+- int recFactorial(int n) => receursively calculate the factorial value
+
+[ Read ] 
+pg290 ~ 300 (before sample free-respons, VERY IMPORTANT, and HARD! please repeat and repeat until you clearly UNDERSTAND)
+
+[ HW ]
+- pg464 a),b)

@@ -1,0 +1,15 @@
+-Reading Assignment
+ ? pg 4 ~ 9 (1.2 ~ 1.4)
+ ? Understand the differece between high level languages and others 
+ ? Data Hierarchy
+
+
+
+
+
+
+
+
+
+-Building vending machine
+ ? with using some data structure

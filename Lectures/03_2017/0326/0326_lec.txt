@@ -1,0 +1,40 @@
+﻿[ Quiz ]
+pg308 - 1,2 디,비
+pg309 - 4 디
+pg310 - 7,8 비,디
+pg316 - 18 에이
+
+[ Lecture ]
+- Sort
+  * Selection Sort
+    ㄴ "search-and-swap" algorithm
+       - begin with switching the smallest value with array[0]
+       - after, find the smallest value in array[1] ~ array[n - 1] , ...
+    ㄴ For an array of n elements, the array is sorted after n-1 passes
+    ㄴ After the kth pass, the first k elements are in their final sorted position
+  * Insertion Sort
+    ㄴ move elemtns from the unsorted list to the sorted list one at a time
+       - from array size 2, the array can be defined as sorted or not
+    ㄴ For an array of n elements, the array is sorted after n-1 passes
+    ㄴ The worst case would be the array is initially sorted in reverse order
+    ㄴ The best case would be the array sorted in increasing order
+    ㄴ After kth pass, array[0] ~ array[k] are sorted with respect to each other
+  * Merge Sort
+    ㄴ Sort with recursion, called *Divide-and-conquer*
+    ㄴ How it works?
+       1. Break the array into two halves
+       2. Mergesort the lefthalf
+       3. Mergesort the righthalf
+       4. Merge the two subarrays into a sorted array
+
+[ Read ] 
+- pg306 Chapter Summary(must read!)
+- pg324 ~ 330 (Finish Ch8)
+
+[ HW ]
+- solve ch7 questions pg308~318(except for 1,2,4,7,8 & 18)
+   ㄴ NO COPYING !
+   ㄴ Write your answers on blank paper, and bring it to the class
+
+[ Practice Exam ]
+pg5 ~ 31 (even nums)

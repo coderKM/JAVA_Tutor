@@ -1,0 +1,20 @@
+[ Quiz ]
+pg263 - 13,14
+pg264 - 16
+pg265 - 17
+pg268 - 22
+pg269 - 25
+
+[ Lecture ]
+- What is recursion? Do you guys still remember?
+(http://www.russia-ex.com/images/blog/Matryoshka-Dolls-1.jpg)
+- Base case or termination condition => method to end
+- nonbase case => move the algorithm toward the basecase
+- Think about base case FIRST! then, nonbase
+- 
+
+[ Read ] 
+pg290 ~ 300 (before sample free-respons, VERY IMPORTANT, and HARD! please repeat and repeat until you clearly UNDERSTAND)
+
+[ HW ]
+- pg464 a),b)

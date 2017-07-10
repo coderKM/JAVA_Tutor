@@ -1,0 +1,4 @@
+[Lecture]
+
+1. Hex -> Bin (before quiz)
+2. Exceptions

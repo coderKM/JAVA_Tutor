@@ -1,0 +1,49 @@
+﻿*02/19*
+[ Quiz ]
+187 - 1
+188 - 2, 3
+189 - 5
+190 - 7,8 
+
+[ Lecture ]   
+- Waterfall Model
+	1 => program specification
+		2 => design
+			3 => Implementation
+				4 => Testing
+					5 => Maintenance
+
+- Types of error
+  * Compile-time error => occurs during compilation
+  * Syntax error => compile-time error caused by violating the rule of language
+  * Runtime error => occurs during execution of the program
+  * intent or logic error => one that fails to carry out the specification
+
+- Design in OO(object-oriented) language
+   1) Identify class
+   2) Identify behaivor(method, etc)
+   3) Determine relationship with classes
+   4) Write interface and implements
+
+- Determining relationship between Classes
+   * Inheritance => "is-a" relationship / sub-class points to super-class with an empty arrow
+	ex) Civic [is a] car
+   * Composition => "has-a" relationship / owner-class points to another with a black arrow
+        ex) Car [has an] engine 
+
+- Helper Method => Method that avoids repeated code (ex. swap, search, etc.)
+
+- Method stub => dummy method that stands in for a method until the actual method has been written and tested
+
+- Collaboratos => Classes needed to implement for particular methods
+   * Classes with no collaborators are called independent
+ 
+[ Coding! ]
+- Let's design our class with an OO language! 
+- How are we gonna code?
+
+[ Reading HW ]
+Ch5) Finish the chapter! => light BUT vocabs are important!
+
+[ Coding HW ]
+pg 418 a) ~ b)
